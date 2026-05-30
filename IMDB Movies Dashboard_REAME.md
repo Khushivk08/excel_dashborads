@@ -1,6 +1,6 @@
 # IMDB Movies Dashboard
 
-![IMDB Movies Dashboard Screenshot](images/IMDB%MOVIES.png)
+![imdb dashboard](<IMDB MOVIES.png>)
 
 ## 📘 Overview
 The **IMDB Movies Dashboard** visualizes movie industry data including genre, rating, director profits, and global revenue distribution.
