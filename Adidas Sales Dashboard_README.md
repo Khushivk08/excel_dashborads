@@ -1,6 +1,6 @@
 # Adidas Sales Dashboard
 
-![Adidas Sales Dashboard Screenshot](ADDIDAS%SALES.png)
+![Adidas Sales Dashboard Screenshot](images/ADDIDAS%SALES.png)
 
 ## 📘 Overview
 The **Adidas Sales Dashboard** provides a comprehensive view of Adidas’s sales performance across years, regions, product categories, and retailers. It visualizes total sales, operating profit, and sales methods using interactive charts and filters.

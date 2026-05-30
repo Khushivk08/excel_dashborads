@@ -1,6 +1,6 @@
 # Sweetmart Sales Dashboard
 
-![Sweetmart Sales Dashboard Screenshot](SWEETMART%SALES.png)
+![Sweetmart Sales Dashboard Screenshot](images/SWEETMART%SALES.png)
 
 ## 📘 Overview
 The **Sweetmart Sales Dashboard** tracks sales performance across customers, regions, delivery personnel, and food items.

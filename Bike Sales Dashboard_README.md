@@ -1,6 +1,6 @@
 # Bike Sales Dashboard
 
-![Bike Sales Dashboard Screenshot](BIKE%SALES.png)
+![Bike Sales Dashboard Screenshot](images/BIKE%SALES.png)
 
 ## 📘 Overview
 The **Bike Sales Dashboard** analyzes customer demographics and purchasing behavior to identify patterns influencing bike purchases.
